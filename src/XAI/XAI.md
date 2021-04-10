@@ -153,9 +153,9 @@ Criticality 는 뭔데 ??
 
 ### 그래. 어떻게 하는지도 알았어. 현 상황은 어떤데 ??
 
-- 일부 AI Scientist (페이스북의 수석 과학자 Yann Lekun) 들은 Reliability = Trustability 라 주장
+- 일부 AI Scientist (페이스북의 수석 과학자 Yann Lekun) 들은 Reliability(통계적 신뢰) = Trustability(절대적 신뢰) 가 될 수 있다고 주장
 - 엄격한 테스트로 설명을 대신할 수 있다.
-- 다른 AI Scientist (Microsoft Research 의 Rich Caruana) 들은 Reliability != Trustability 이며 Trustability 이상의 악의적인 공격에서도 안전을 보장받아야 한다고 주장
+- 다른 AI Scientist (Microsoft Research 의 Rich Caruana) 들은 Reliability(통계적 신뢰) != Trustability(절대적 신뢰) 이며 Trustability 이상의 악의적인 공격에서도 안전을 보장받아야 한다고 주장
 - GAN 의 예시로 Layer On/Off 등을 하면서 어떤 neural layer 가 어떤 이미지를 생성하는데 기여하는지에 대한 디버깅같은 작업을 하는 등의 실 적용도 이루어지고 있음
 
 ## XAI Examples
