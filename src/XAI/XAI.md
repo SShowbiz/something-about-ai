@@ -15,7 +15,7 @@ Why ?
 
 Objective Function 을 최소/최대화 하는 방향으로 weight (latent factor) 들을 변화시켜가면서 최적의 weight 를 찾아내니까 그런 결과가 나오는 것 아닌가?
 
-- Weight 가 의미하는 바가 뭔데 ?ㅇ
+- Weight 가 의미하는 바가 뭔데 ?
 - 고양이랑 비슷한게 뭔데 ?
   - 눈이 있음 ...?
   - 털이 있음 ...??
@@ -119,7 +119,7 @@ Complexity 는 뭔데 ??
 - Decision Tree
 - Learning Technique 에 따라 **Explainability 를 바꿀 수 있음**
 
-모델의 중요성(Criticality) 와 모델이 필요한 설명가능성은 **일반적으로 반비례**
+모델의 중요성(Criticality) 와 모델이 필요한 설명가능성은 **일반적으로 비례**
 
 ![Criticality VS Explainability](../images/Impact_VS_Explainability.png)
 
